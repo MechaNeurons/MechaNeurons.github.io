@@ -1,8 +1,8 @@
-# <div style='text-align:center;'> Welcome to my Page </div>
+# <div style='text-align:center;font-weight:bold;'> Welcome to my Page </div>
 
 !!! quotes ""
 
-    Strive for perfection in everything you do. Take the best that exist and make it better. When it does not exist, design it.<div style='text-align:right;'><i> -Sir Henry Royce  </i></div>
+    <div style="text-align:center;font-size:19px"><i>Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exists, design it.<div style='text-align:right;'> -Sir Henry Royce  </div></i></div>
 
 <div style='display:flex;'>
 <div style="flex:1;text-align: justify;
@@ -16,10 +16,12 @@ I am a mechatronics engineer with MSc degree. I'm passionate about technology, r
 
 ## Somethings you can find on this Website
 
-- [Blog posts](Blog/index.md)
-- [Publications](Publications/pub.md)
-- [Certifications](certifications/cer.md)
-- [Code documentation](documentations/doc.md)
+<div class="grid" markdown>
+<div markdown> [:fontawesome-solid-blog: Blog posts](Blog/index.md) </div>
+<div markdown> [:material-book-edit: Publications](Publications/pub.md)</div>
+<div markdown> [:material-certificate-outline: Certifications](certifications/cer.md)</div>
+<div markdown> [:octicons-file-code-16: Code documentation](documentations/doc.md)</div>
+</div>
 
 ## Here is a quick link to my personal pages
 
