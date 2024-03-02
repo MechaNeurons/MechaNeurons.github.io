@@ -1,4 +1,14 @@
 site_name: Seyed Mohammad Amin Sadat
+site_url: https://reza0314.github.io
+site_author: Seyed Mohammad Amin Sadat
+site_description: >-
+  My personal website
+
+# Repository
+repo_name: reza0314/reza0314.github.io
+repo_url: https://github.com/reza0314/reza0314.github.io
+
+
 theme:
   name: material
   custom_dir: docs/overrides
@@ -80,7 +90,15 @@ nav:
   - Home Page: index.md
   - My work:
       - 'Home': index.md
-      - 'Certifications': certifications/cer.md
+      - 'Certifications':
+        - "Home" : certifications/index.md
+        - 'Educational':
+          - "BSc degree": certifications/education/bsc_cer.md
+        - 'online':
+          - 'GenAI': certifications/online/genai_coursera.md
+          - 'State Estimation and Localization' : certifications/online/es_loc_coursera.md
+          - 'Motion Planing': certifications/online/mp_coursera.md
+          
       - 'Publications': Publications/pub.md
       - 'Documentations': documentations/doc.md
   - Blog:

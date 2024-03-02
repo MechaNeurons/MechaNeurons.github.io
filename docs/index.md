@@ -3,12 +3,10 @@
 !!! quotes ""
 
     <div style="text-align:center;font-size:19px"><i>Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exists, design it.<div style='text-align:right;'> -Sir Henry Royce  </div></i></div>
-<!-- <div style='display:flex;'>
-<p style="width:70%;flex:1;text-align: justify;
- text-justify: inter-character ;margin:10pt;" markdown> -->
+
 <div style='display:flex;text-align:left;flex-wrap:wrap; margin:0 auto;'>
 <div style="flex:1;justify-content:left;margin-top:5%;margin-right:8px;">
-<p>
+<p markdown>
 I am a mechatronics engineer with MSc degree. I'm passionate about technology, robots and self-driving cars. This website is space for me to share my thoughts, projects, and experience. I enjoy playing electric guitar and listening for rock and metal music 🤘🏻. I'm also passionate about karate🥋 ,holding a 3rd dan black belt with coaching and referee certifications.
 </p>
 </div>
@@ -16,13 +14,19 @@ I am a mechatronics engineer with MSc degree. I'm passionate about technology, r
 <img src="images/prof.jpg" alt="Me" style="margin-top: 25px;">
 </div>
 </div>
+!!! danger "PhD Position"
+    **I am looking for PhD positions in my relevant felids (i.e. Robotics, Control, AI, Self-driving cars).**
+    If you need more information or interested please do not hesitate to contact me using [:material-gmail: this link](mailto:s.mohammad.amin.sadat@gmail.com).
+
+!!! note "CV"
+    You can download my latest cv from [:octicons-download-16: here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/reza0314/CV/blob/965d33ffac948172378085c38d375ab088489005/CV.pdf).
 
 ## Somethings you can find on this Website
 
 <div class="grid" markdown>
 <div markdown> [:fontawesome-solid-blog: Blog posts](Blog/index.md) </div>
 <div markdown> [:material-book-edit: Publications](Publications/pub.md)</div>
-<div markdown> [:material-certificate-outline: Certifications](certifications/cer.md)</div>
+<div markdown> [:material-certificate-outline: Certifications](certifications/index.md)</div>
 <div markdown> [:octicons-file-code-16: Code documentation](documentations/doc.md)</div>
 </div>
 
