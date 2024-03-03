@@ -1,12 +1,12 @@
 site_name: Seyed Mohammad Amin Sadat
-site_url: https://reza0314.github.io
+site_url: https://MechaNeurons.github.io
 site_author: Seyed Mohammad Amin Sadat
 site_description: >-
   My personal website
 
 # Repository
-repo_name: reza0314/reza0314.github.io
-repo_url: https://github.com/reza0314/reza0314.github.io
+repo_name: MechaNeurons/MechaNeurons.github.io
+repo_url: https://github.com/MechaNeurons/MechaNeurons.github.io
 
 
 theme:
@@ -85,6 +85,18 @@ extra_css:
 
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@MechaNeurons
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mohammad-amin-sadat-341552196/
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/MechaNeurons?t=jNJCeb2VqexrUcvGITRo-A&s=09
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/mechaneurons?igsh=YTQwZjQ0NmI0OA==
+    - icon: fontawesome/brands/threads
+      link: https://www.threads.net/@mechaneurons
+
 
 nav:
   - Home Page: index.md
